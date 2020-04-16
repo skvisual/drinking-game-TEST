@@ -18,11 +18,7 @@
   "production": {
     "use_env_variable": "JAWSDB_URL",
     "dialect": "mysql",
-    "username": "root",
-    "password": null,
-    "database": "materials_db",
-    "host": "127.0.0.1",
-    "operatorsAliases": false
+    "database": "materials_db"
 
   }
   
