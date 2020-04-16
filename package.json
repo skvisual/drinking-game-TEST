@@ -1,0 +1,26 @@
+{
+  "name": "drinking-game",
+  "version": "1.0.0",
+  "description": "A multiplayer drinking game.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxwellhankner/drinking-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxwellhankner/drinking-game/issues"
+  },
+  "homepage": "https://github.com/maxwellhankner/drinking-game#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.6",
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0"
+  }
+}
